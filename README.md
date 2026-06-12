@@ -1,5 +1,21 @@
-# 💫 About Me:
-# 💫 About Me<br><br>Hi, I'm **Naseer**, a passionate **Full Stack Developer** with 1+ year of experience building modern web applications using the MERN stack.<br><br>I enjoy developing scalable, user-friendly, and high-performance applications while continuously learning new technologies and best practices. My experience spans frontend development, backend APIs, database design, cloud deployment, and CI/CD automation.<br><br>### 🚀 What I Do<br><br>* Build full-stack web applications using React.js, Node.js, Express.js, and MongoDB<br>* Design and integrate RESTful APIs<br>* Deploy and manage applications on AWS and cloud platforms<br>* Implement CI/CD pipelines using GitHub Actions<br>* Work with Docker for containerization and development workflows<br>* Explore AI-powered applications and modern software architectures<br><br>### 🛠️ Tech Stack<br><br>**Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS<br><br>**Backend:** Node.js, Express.js, NestJS<br><br>**Databases:** MongoDB, MySQL, PostgreSQL<br><br>**Cloud & DevOps:** AWS EC2, Docker, GitHub Actions, Nginx, Render, Vercel<br><br>**Tools:** Git, GitHub, Postman, Linux<br><br>### 🌱 Currently Learning<br><br>* Advanced System Design<br>* Cloud Architecture<br>* DevOps Best Practices<br>* AI and Agentic Workflows<br><br>### 🎯 Career Goal<br><br>To build impactful software solutions, contribute to innovative products, and grow into a highly skilled Full Stack Engineer capable of designing and delivering scalable systems end-to-end.<br><br>> "Code. Learn. Build. Repeat." 🚀<br>
+# Hi 👋, I'm Naseer
+
+### Full Stack Developer | MERN Stack | DevOps Enthusiast
+
+🚀 Passionate about building scalable web applications and turning ideas into real-world products.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Full Stack Developer with **1+ year of experience**
+- ⚛️ Building applications using **React.js, Node.js, Express.js, and MongoDB**
+- ☁️ Working with **AWS, Docker, GitHub Actions, and CI/CD**
+- 🌱 Currently learning **System Design, Cloud Architecture, and AI**
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- 🤝 Open to collaborating on exciting projects
+
+---
 
 
 ## 🌐 Socials:
